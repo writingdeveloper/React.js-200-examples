@@ -20,6 +20,10 @@ class R014_ForEach extends Component {
     }
 
     render() {
-        
+        return (
+            <h2>[THIS IS ForEach ]</h2>
+        )
     }
 }
+
+export default R014_ForEach;
